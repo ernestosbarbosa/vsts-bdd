@@ -1,0 +1,37 @@
+menu:
+  sobre_a_cwi:
+    value: "Sobre a CWI"
+    tipo_busca: "LINKTEXT"
+  quem_somos:
+    value: "Quem Somos"
+    tipo_busca: "LINKTEXT"
+  projeto_crescer:
+    value: "Projeto Crescer"
+    tipo_busca: "LINKTEXT"
+  servicos:
+    value: "Serviços"
+    tipo_busca: "LINKTEXT"
+  outsourcing:
+    value: "Outsourcing"
+    tipo_busca: "LINKTEXT"
+  fabrica_de_projetos:
+    value: "Fábrica de Projetos"
+    tipo_busca: "LINKTEXT"
+  fabrica_de_software:
+    value: "Fábrica de Software"
+    tipo_busca: "LINKTEXT"
+  fabrica_de_testes:
+    value: "Fábrica de Testes"
+    tipo_busca: "LINKTEXT"
+  Qualidade:
+    value: "Qualidade"
+    tipo_busca: "LINKTEXT"
+  Tecnologias:
+    value: "Tecnologias"
+    tipo_busca: "LINKTEXT"
+  Oportunidades:
+    value: "Oportunidades"
+    tipo_busca: "LINKTEXT"
+  Contato:
+    value: "Contato"
+    tipo_busca: "LINKTEXT"

@@ -1,0 +1,19 @@
+home:
+  banner:
+    value: "banner"
+    tipo_busca: "ID"
+  destaque:
+    value: "destaque"
+    tipo_busca: "ID"
+  solucoes_fabrica_projetos:
+    value: "[href='/Servicos/FabricadeProjetos']"
+    tipo_busca: "CSS"
+  solucoes_fabrica_software:
+    value: "[href='/Servicos/FabricadeSoftware']"
+    tipo_busca: "CSS"
+  solucoes_outsourcing:
+    value: "[href='/Servicos/Outsourcing']"
+    tipo_busca: "CSS"
+  solucoes_fabrica_testes:
+    value: "[href='/Servicos/FabricadeTestes']"
+    tipo_busca: "CSS"

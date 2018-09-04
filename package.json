@@ -1,0 +1,32 @@
+{
+  "name": "testes-tdc-2018",
+  "version": "0.0.1",
+  "author": "jose.barbosa",
+  "private": true,
+  "engines": {
+    "node": ">=6",
+    "npm": ">=3"
+  },
+  "scripts": {
+    "pretest": "gulp features",
+    "test": "protractor ./test/conf.js",
+    "posttest": "gulp report"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "cucumber": "^4.1.0",
+    "cucumber-html-reporter": "^4.0.2",
+    "cucumber-junit": "^1.7.1",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-cli": "^2.0.1",
+    "gulp-util": "^3.0.8",
+    "js-yaml": "^3.11.0",
+    "protractor": "^5.3.1",
+    "protractor-cucumber-framework": "^4.2.0",
+    "selenium-webdriver": "^4.0.0-alpha.1",
+    "through2": "^2.0.3",
+    "testingbot-api": "^1.0.5",
+    "vso-node-api": "^6.5.0"
+  }
+}
